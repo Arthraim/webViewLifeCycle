@@ -5,8 +5,8 @@ Easy result is here:
 
 ```
 WKUserScript atDocumentStart
+webView:(_:didCommit:)
 DOMContentLoaded
 WKUserScript atDocumentEnd
-webView:(_:didCommit:)
 webView:(_:didFinish:)
 ```
